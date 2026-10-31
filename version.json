@@ -1,7 +1,7 @@
 {
-  "latestVersionCode": 28,
-  "versionName": "2.5.28",
-  "downloadUrl": "https://github.com/arnav-deo/qurious-app/releases/download/v2.5.28/qurious-v2.5.28.apk",
-  "releaseNotes": "Add missing shared module\n\nCo-authored-by: Cursor <cursoragent@cursor.com>\n",
+  "latestVersionCode": 29,
+  "versionName": "2.5.29",
+  "downloadUrl": "https://github.com/arnav-deo/qurious-app/releases/download/v2.5.29/qurious-v2.5.29.apk",
+  "releaseNotes": "Add iOS app and config files\n",
   "isMandatory": false
 }
